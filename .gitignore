@@ -1,0 +1,9 @@
+.idea/
+*.swp
+.tmp/
+.env
+*.log
+*.out
+*.dump
+*.stackdump
+__pycache__/
